@@ -1,0 +1,6 @@
+id: "custom.broker"
+title: "Your Broker (trading MCP)"
+description: "Read your brokerage accounts via your broker's official trading MCP/API if one is available (all accounts read; trades only in a dedicated agent/pilot account, approval-gated) and research holdings."
+include_in_prompt: true
+require_auth: true
+aliases: ["Broker Trading MCP", "Agentic Trading"]
